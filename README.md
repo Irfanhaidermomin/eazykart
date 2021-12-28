@@ -24,6 +24,6 @@ samples, guidance on mobile development, and a full API reference.
 <img src="https://user-images.githubusercontent.com/62071835/147538584-94dbfc44-5603-4bc0-9907-27467ed82457.png" width="250" height="500">
 <img src="https://user-images.githubusercontent.com/62071835/147540571-0cdb64e2-5ef1-4385-987a-a3998b62ada9.png" width="250" height="500">
 <img src="https://user-images.githubusercontent.com/62071835/147540591-279ac73e-046c-4290-b11a-2b655e539724.png" width="250" height="500">
-<img src="https://user-images.githubusercontent.com/62071835/147540613-14cd65cc-8486-48a6-86d7-aa0abe5707fe.jpeg" width="600" height="500">
-<img src="https://user-images.githubusercontent.com/62071835/147540626-f520ca35-5d7a-4c06-9760-02ab5715c3b5.jpeg" width="600" height="500">
+<img src="https://user-images.githubusercontent.com/62071835/147540613-14cd65cc-8486-48a6-86d7-aa0abe5707fe.jpeg" width="1000" height="500">
+<img src="https://user-images.githubusercontent.com/62071835/147540626-f520ca35-5d7a-4c06-9760-02ab5715c3b5.jpeg" width="1000" height="500">
 
